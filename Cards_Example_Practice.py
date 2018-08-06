@@ -1,14 +1,14 @@
 
 # coding: utf-8
 
-# In[43]:
+# In[ ]:
 
 
 from collections import deque
 from random import shuffle
 
 
-# In[98]:
+# In[ ]:
 
 
 class Card:
